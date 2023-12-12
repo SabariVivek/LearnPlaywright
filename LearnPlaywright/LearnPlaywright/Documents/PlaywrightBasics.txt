@@ -1,0 +1,27 @@
+Playwright :
+------------
+* Playwright enables reliable end-to-end testing for modern web apps.
+* Applications supported -- Web Browser Apps, Mobile Web Apps, API.
+* Languages supported -- Javascript, Typescript, Java, Python & .Net(C#).
+* Browsers supported (Headed/Headless) -- Chromium, WebKit (Safari) and Firefox.
+* OS supported - Windows, MacOS, Linux, Support CI Runs.
+
+Features of Playwright :
+------------------------
+* Free & Open Source
+* Multi-Browser & Multi-Language
+* Easy setup and configuration
+* Supports - Funtional, API, Accessibility Testing
+* Built-in reporters & Custom Reports
+* CI, CD, Docker
+* Parallel Testing
+* Auto Wait
+* Built-in Assertions
+* Multi Tab & Multi Window (Which is not there in Cypress)
+* Frames, Shadow DOM
+* Test Parameters (Parameterization)
+* Emulate Mobile Devices
+* Fast comparing to Selenium & Cypress
+* Codegen -- Generate tests by recording your actions. Save them into any language.
+* Playwright Inspector -- Inspect page, generate selectors, explore execution logs.
+* Trace Viewer -- It capture all the information to investigate the test failure.
